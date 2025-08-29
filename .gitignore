@@ -1,0 +1,10 @@
+# Virtual environment
+
+venv/
+.venv/
+*.venv/
+*venv/ 
+
+/raw.githubusercontent.com/
+raw.githubusercontent.com/
+raw.githubusercontent.com/*
